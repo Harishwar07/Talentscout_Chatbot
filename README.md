@@ -105,8 +105,4 @@ talentscout_hiring_assistant/
 - **Port conflicts:** `streamlit run app.py --server.port 8502`
 
 ---
-© 2025 TalentScout (demo). For academic use only.
-||||||| (empty tree)
-=======
-# Talentscout_Chatbot
->>>>>>> 4f30ccb7 (Initial commit)
+© 2025 TalentScout . For academic use only.
