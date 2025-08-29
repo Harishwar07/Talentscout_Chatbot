@@ -2,5 +2,4 @@ streamlit==1.29.0
 python-dotenv==1.0.0
 google-generativeai==0.2.0
 requests==2.31.0
-python-docx==0.8.11       
-python-3.11.6
+python-docx==0.8.11
