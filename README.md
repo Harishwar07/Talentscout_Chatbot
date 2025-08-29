@@ -105,4 +105,3 @@ talentscout_hiring_assistant/
 
 ---
 © 2025 TalentScout . For academic use only.
---------
