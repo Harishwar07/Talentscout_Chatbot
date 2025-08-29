@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TalentScout – Intelligent Hiring Assistant (Streamlit)
 
 An intelligent screening chatbot for a fictional agency, **TalentScout**, that gathers candidate details and generates tailored technical questions from their declared tech stack. Built with **Streamlit** and a pluggable LLM backend.
@@ -105,3 +106,7 @@ talentscout_hiring_assistant/
 
 ---
 © 2025 TalentScout (demo). For academic use only.
+||||||| (empty tree)
+=======
+# Talentscout_Chatbot
+>>>>>>> 4f30ccb7 (Initial commit)
